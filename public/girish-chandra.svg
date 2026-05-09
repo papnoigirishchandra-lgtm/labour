@@ -1,0 +1,21 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="48" fill="#09111F"/>
+  <rect x="40" y="40" width="720" height="820" rx="36" fill="url(#bg)"/>
+  <circle cx="400" cy="300" r="130" fill="#0E2035"/>
+  <path d="M180 748C180 619.869 283.869 516 412 516H388C516.131 516 620 619.869 620 748V760H180V748Z" fill="#0E2035"/>
+  <circle cx="400" cy="280" r="96" fill="url(#portrait)"/>
+  <path d="M256 738C256 641.35 334.35 563 431 563H369C465.65 563 544 641.35 544 738V760H256V738Z" fill="url(#portrait)"/>
+  <rect x="96" y="96" width="608" height="708" rx="28" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+  <text x="400" y="350" text-anchor="middle" fill="#E8FCFF" font-family="Arial, sans-serif" font-size="74" font-weight="700">GC</text>
+  <text x="400" y="808" text-anchor="middle" fill="#9BB3C9" font-family="Arial, sans-serif" font-size="26" letter-spacing="5">GIRISH CHANDRA</text>
+  <defs>
+    <linearGradient id="bg" x1="98" y1="90" x2="694" y2="827" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10233B"/>
+      <stop offset="1" stop-color="#07111D"/>
+    </linearGradient>
+    <linearGradient id="portrait" x1="295" y1="180" x2="536" y2="728" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2CE7D6"/>
+      <stop offset="1" stop-color="#5D6BFF"/>
+    </linearGradient>
+  </defs>
+</svg>

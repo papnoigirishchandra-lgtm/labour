@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Krishiseva</title>
+  <defs>
+    <linearGradient id="bg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#86efac" />
+      <stop offset="1" stop-color="#15803d" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#bg)" />
+  <path
+    d="M32 18v16"
+    fill="none"
+    stroke="#f0fdf4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="5"
+  />
+  <path d="M32 26c-8-1-13-5-14-11c8 1 14 5 14 11Z" fill="#dcfce7" />
+  <path d="M32 26c8-1 13-5 14-11c-8 1-14 5-14 11Z" fill="#dcfce7" />
+  <path
+    d="M18 42h28M22 48h20"
+    fill="none"
+    stroke="#f0fdf4"
+    stroke-linecap="round"
+    stroke-width="4"
+    opacity="0.95"
+  />
+  <circle cx="48" cy="18" r="3.5" fill="#fef3c7" opacity="0.95" />
+</svg>

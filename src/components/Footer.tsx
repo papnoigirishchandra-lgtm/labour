@@ -33,8 +33,8 @@ const Footer = () => (
         <div>
           <h4 className="mb-3 font-display text-sm font-semibold">Support</h4>
           <div className="flex flex-col gap-2 text-sm text-muted-foreground">
-            <a href="mailto:support@krishiseva.com" className="transition-colors hover:text-primary">Help Center</a>
-            <a href="mailto:contact@krishiseva.com" className="transition-colors hover:text-primary">Contact</a>
+            <a href="mailto:papnoigirishchandra@gmail.com" className="transition-colors hover:text-primary">Help Center</a>
+            <Link to="/developer#contact" className="transition-colors hover:text-primary">Contact</Link>
           </div>
         </div>
       </div>
